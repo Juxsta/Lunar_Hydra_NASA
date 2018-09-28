@@ -1,0 +1,3 @@
+[submodule "SunFounder_SensorKit_for_RPi2"]
+	path = SunFounder_SensorKit_for_RPi2
+	url = https://github.com/sunfounder/SunFounder_SensorKit_for_RPi2
